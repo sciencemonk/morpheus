@@ -37,7 +37,7 @@ if (pulseSensor.sawStartOfBeat()) {
  Serial.println(myBPM);                      
 }
 
-  delay(20);               
+  delay(100);               
 
 }
 
